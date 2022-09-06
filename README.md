@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Larry!
 - 👀 I'm interested in C++ development, and embedded systems
-- 🌱 OpenGL graphics programming
-- 💞️ Games, game engines, and any project written in C/C++
+- 🌱 I'm currently learning OpenGL graphics programming
+- 💞️ I'm open to contributing to Games, game engines, and any project written in C/C++
 - 📫 larry.mason@ufl.edu
