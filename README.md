@@ -1,6 +1,3 @@
 - 👋 Hi, I'm Larry!
-- 👀 I'm interested in C++ development, and embedded systems
-- 🌱 I'm currently learning game programming with SFML
-- 📫 larry.mason@ufl.edu
-
-I'm open to contributing to Games, game engines, and any project written in C/C++
+- 👀 I enjoy web development, game development, and learning low-level programming
+- 📫 You can contact me at larry.mason@ufl.edu
