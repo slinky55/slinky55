@@ -1,3 +1,3 @@
 - 👋 Hi, I'm Larry!
-- 👀 I enjoy web development, game development, and learning low-level programming
-- 📫 You can contact me at larry.mason@ufl.edu
+- 👀 I enjoy web development and low-level programming. 
+- 📫 You can contact me at larry@bmason.me
