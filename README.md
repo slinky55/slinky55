@@ -1,3 +1,2 @@
-- 👋 Hi, I'm Larry!
 - 👀 I enjoy web and low-level development. 
 - 📫 You can contact me at larry@bmason.me
